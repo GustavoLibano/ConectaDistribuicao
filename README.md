@@ -35,7 +35,7 @@ Vendedores podem digitar "opções" para acessar as informações detalhadas sob
 
 ## Instalação
 
-1.  Clone este repositório: `git clone https://github.com/GustavoLibano/femsa-whatsapp-bot.git`
+1.  Clone este repositório: `git clone https://github.com/GustavoLibano/ConectaDistribuicao.git`
 2.  Instale as dependências: `pip install -r requirements.txt`
 3.  Crie um arquivo `.env` e adicione as suas credenciais Twilio e o caminho para a planilha:
 
